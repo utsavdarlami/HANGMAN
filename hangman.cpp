@@ -115,7 +115,7 @@ int show_hang(int y)
 			cout<<" |___| \n";
 			cout<<"   |   \n";
 			cout<<"  /|\\  \n";
-     		cout<<" / | \\  \n";
+     			cout<<" / | \\  \n";
 			cout<<"   |     \n";
 			cout<<"  / \\  \n";
 			cout<<" /   \\  \n";
@@ -131,10 +131,10 @@ int show_hang(int y)
 			cout<<" |___| \n";
 			cout<<"   |   \n";
 			cout<<"  /|\\ \n";
-     		cout<<" / | \\  \n";
+     			cout<<" / | \\  \n";
 			cout<<"   |     \n";
-			cout<<"  /    \n";
-			cout<<" /      \n";
+			cout<<"  /  \n";
+			cout<<" /    \n";
 			break;
 		}
 		case 2:
@@ -147,7 +147,7 @@ int show_hang(int y)
 			cout<<" |___| \n";
 			cout<<"   |   \n";
 			cout<<"  /|\\  \n";
-     		cout<<" / | \\ \n";
+     			cout<<" / | \\ \n";
 			cout<<"   |     \n";
 			break;
 		}
@@ -161,7 +161,7 @@ int show_hang(int y)
 			cout<<" |___| \n";
 			cout<<"   |   \n";
 			cout<<"  /|   \n";
-     		cout<<" / |   \n";
+     			cout<<" / |   \n";
 			cout<<"   |   \n";
 			break;
 		}
