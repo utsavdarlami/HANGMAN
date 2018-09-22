@@ -17,8 +17,8 @@ int main()
 	static int flag=0;
 	int life = 5;
 	/*
-	words =["APPLE","FIRE","HANGMAN","PIZZA","AWESOME","MAXIMOFF","UPPERCASE"]
-	option=["A food or company","It burns","you are playing","we all want to eat","barney","quicksliver","lowercasee"]
+	words =["APPLE","FIRE","HANGMAN","PIZZA","AWESOME","MAXIMOFF","UPPERCASE","GIT"]
+	option=["A food or company","It burns","you are playing","we all want to eat","barney","quicksliver","lowercasee","version control"]
 	*/
 	const char *options[]={"APPLE","FIRE","HANGMAN","PIZZA","AWESOME","MAXIMOFF","UPPERCASE"};
 	const char *hint[]={"A food or company","It burns","you are playing","we all want to eat","barney","quicksliver","lowercasee"};
